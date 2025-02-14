@@ -26,6 +26,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/subhang-IITD/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/subhang-IITD/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/subhang-IITD/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/subhang-IITD/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -55,4 +56,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/subhang-IITD/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/subhang-IITD/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
