@@ -16,6 +16,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0496-next-greater-element-i](https://github.com/subhang-IITD/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/subhang-IITD/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [1072-next-greater-node-in-linked-list](https://github.com/subhang-IITD/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/subhang-IITD/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
 |  |
@@ -26,9 +27,15 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0496-next-greater-element-i](https://github.com/subhang-IITD/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/subhang-IITD/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [1072-next-greater-node-in-linked-list](https://github.com/subhang-IITD/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/subhang-IITD/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/subhang-IITD/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [1072-next-greater-node-in-linked-list](https://github.com/subhang-IITD/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+## Linked List
+|  |
+| ------- |
+| [1072-next-greater-node-in-linked-list](https://github.com/subhang-IITD/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
