@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0496-next-greater-element-i](https://github.com/subhang-IITD/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/subhang-IITD/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0658-find-k-closest-elements](https://github.com/subhang-IITD/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/subhang-IITD/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1072-next-greater-node-in-linked-list](https://github.com/subhang-IITD/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/subhang-IITD/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/subhang-IITD/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -50,12 +51,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/subhang-IITD/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/subhang-IITD/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/subhang-IITD/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/subhang-IITD/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/subhang-IITD/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/subhang-IITD/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/subhang-IITD/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/subhang-IITD/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -63,11 +66,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0215-kth-largest-element-in-an-array](https://github.com/subhang-IITD/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/subhang-IITD/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/subhang-IITD/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/subhang-IITD/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/subhang-IITD/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/subhang-IITD/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/subhang-IITD/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Design
 |  |
 | ------- |
@@ -92,4 +97,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/subhang-IITD/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/subhang-IITD/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/subhang-IITD/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
