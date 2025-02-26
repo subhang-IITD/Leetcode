@@ -22,10 +22,10 @@ class Solution {
         if(root.val>=low && root.val <= high){
             sum += root.val;
         }
-        if(root.val> low){
+        if(root.val>= low){
             sum+= rangeSumBST(root.left,low,high);
         }
-        if(root.val < high){
+        if(root.val <= high){
             sum+= rangeSumBST(root.right,low,high);
         }
         return sum;
