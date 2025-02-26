@@ -105,4 +105,20 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/subhang-IITD/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/subhang-IITD/Leetcode/tree/master/0975-range-sum-of-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/subhang-IITD/Leetcode/tree/master/0975-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/subhang-IITD/Leetcode/tree/master/0975-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/subhang-IITD/Leetcode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
