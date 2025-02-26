@@ -26,6 +26,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/subhang-IITD/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/subhang-IITD/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/subhang-IITD/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/subhang-IITD/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -48,6 +49,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/subhang-IITD/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/subhang-IITD/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/subhang-IITD/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/subhang-IITD/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -86,6 +88,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/subhang-IITD/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0658-find-k-closest-elements](https://github.com/subhang-IITD/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/subhang-IITD/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
