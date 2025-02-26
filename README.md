@@ -108,10 +108,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Tree
 |  |
 | ------- |
+| [0904-leaf-similar-trees](https://github.com/subhang-IITD/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/subhang-IITD/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0904-leaf-similar-trees](https://github.com/subhang-IITD/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/subhang-IITD/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -120,5 +122,6 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Tree
 |  |
 | ------- |
+| [0904-leaf-similar-trees](https://github.com/subhang-IITD/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/subhang-IITD/Leetcode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
