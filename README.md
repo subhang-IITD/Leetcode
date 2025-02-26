@@ -120,6 +120,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0144-binary-tree-preorder-traversal](https://github.com/subhang-IITD/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/subhang-IITD/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/subhang-IITD/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/subhang-IITD/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/subhang-IITD/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/subhang-IITD/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
@@ -138,6 +139,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Search Tree
 |  |
 | ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/subhang-IITD/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/subhang-IITD/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -151,6 +153,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0144-binary-tree-preorder-traversal](https://github.com/subhang-IITD/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/subhang-IITD/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/subhang-IITD/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/subhang-IITD/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/subhang-IITD/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/subhang-IITD/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
