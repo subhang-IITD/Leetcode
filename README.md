@@ -48,6 +48,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/subhang-IITD/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/subhang-IITD/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/subhang-IITD/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/subhang-IITD/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -169,4 +170,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/subhang-IITD/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/subhang-IITD/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
