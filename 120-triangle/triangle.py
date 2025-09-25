@@ -3,8 +3,8 @@ class Solution:
         n = len(triangle)
         memo = {}
         def dp(i,j):
-            if i==n-1:
-                return triangle[i][j]
+            if i==n :
+                return 0
             
             if (i,j) in memo:
                 return memo[(i,j)]
